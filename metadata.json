@@ -1,0 +1,7 @@
+{
+  "name": "Universal AI Chat Template",
+  "description": "A professional, white-label AI chat interface designed to be easily retrofitted for various businesses. Includes a modular service layer currently connected to Google Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
